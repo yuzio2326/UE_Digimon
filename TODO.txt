@@ -1,0 +1,12 @@
+Backstep Motion을 RootMotion으로 나중에 바꾸기
+
+기본 몬스터 플레이어 캐릭터 코드 작성 ㄱㄱ
+
+player를 사람으로 할지 or digimon으로 할지 고민중
+
+digimon으로 한다면 플레이어블 디지몬 2~4종류 정도만 만들고 나머지 몬스터로 만들기
+현재 길몬 코로몬 2종
+
+monster code 작성 ㄱㄱ
+
+
